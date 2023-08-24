@@ -1,0 +1,19 @@
+{
+  "education": [
+    {
+      "title": "Jun 2020 - Jun 2024",
+      "cardTitle": "B.Tech, Information Technology",
+      "cardSubtitle": "Guru Nanak Dev Engineering College, Ludhiana",
+      "cardDetailedText": "SGPA - 8.7",
+      "icon": {
+        "src": "images/education/pointer.png"
+      }
+    },
+    {
+      "title": "Apr 2020",
+      "cardTitle": "High School",
+      "cardSubtitle": "Guru Nanak International Public School, Ludhiana",
+      "cardDetailedText": "Percentage - 87%"
+    }
+  ]
+}

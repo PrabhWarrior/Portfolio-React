@@ -1,0 +1,46 @@
+{
+  "experiences": [
+    {
+      "title": "Student Software Developer (Team Leader)",
+      "subtitle": "Training and Placement Cell",
+      "workType": "",
+      "workDescription": [
+        "Managed team of juniors students, with weekly feature planning meetings and weekly assigned tasks",
+        "Removed various bugs to increase the loading speed",
+        "Technical Stack - ReactJS and MySQL"
+      ],
+      "dateText": "05/2023 – present"
+    },
+    {
+      "title": "Executive Member",
+      "subtitle": "Training and Placement Cell",
+      "workType": "",
+      "workDescription": [
+        "Coordinating and assisting student queries",
+        "Manage/Coordinate the leads and HRs association for Training and Placement Cell drives"
+      ],
+      "dateText": "06/2022 – 06/2023"
+    },
+    {
+      "title": "Head of Content Team",
+      "subtitle": "ITian Club",
+      "workType": "",
+      "workDescription": [
+        "Content Management",
+        "Manage and Handled various events"
+      ],
+      "dateText": "02/2022 – 02/2023"
+    },
+    {
+      "title": "Technical Team Member (SDE Intern)",
+      "subtitle": "Training and Placement Cell",
+      "workType": "",
+      "workDescription": [
+        "Developed reusable react component.",
+        "Providing technical support to the cell in the relevant events.",
+        "Technical Stack - ReactJS and MySQL"
+      ],
+      "dateText": "08/2022 – 05/2023"
+    }
+  ]
+}

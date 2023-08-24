@@ -1,0 +1,97 @@
+{
+  "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+  "skills": [
+    {
+      "title": "Languages & Databases",
+      "items": [
+        {
+          "icon": "images/skills/c.png",
+          "title": "C"
+        },
+        {
+          "icon": "images/skills/c++.png",
+          "title": "C++"
+        },
+        {
+          "icon": "images/skills/js.png",
+          "title": "JavaScript"
+        },
+        {
+          "icon": "images/skills/python.png",
+          "title": "Python"
+        },
+
+        {
+          "icon": "images/skills/mysql.png",
+          "title": "MySQL"
+        },
+        {
+          "icon": "images/skills/mongoDb.png",
+          "title": "mongoDB"
+        }
+      ]
+    },
+    {
+      "title": "Frameworks & Technologies",
+      "items": [
+        {
+          "icon": "images/skills/html5.png",
+          "title": "HTML"
+        },
+        {
+          "icon": "images/skills/css3.png",
+          "title": "CSS"
+        },
+        {
+          "icon": "images/skills/tailwindCSS.png",
+          "title": "Tailwind CSS"
+        },
+        {
+          "icon": "images/skills/react.png",
+          "title": "React"
+        },
+        {
+          "icon": "images/skills/expressJs.png",
+          "title": "Expressjs"
+        },
+        {
+          "icon": "images/skills/pandas.png",
+          "title": "Pandas"
+        },
+        {
+          "icon": "images/skills/bootstrap.png",
+          "title": "Bootstrap"
+        }
+      ]
+    },
+    {
+      "title": "Tools & Platforms",
+      "items": [
+        {
+          "icon": "images/skills/platformIO.png",
+          "title": "Platform IO"
+        },
+        {
+          "icon": "images/skills/arduino.png",
+          "title": "Arduino"
+        },
+        {
+          "icon": "images/skills/git.png",
+          "title": "Git"
+        },
+        {
+          "icon": "images/skills/github.png",
+          "title": "Github"
+        },
+        {
+          "icon": "images/skills/postman.png",
+          "title": "Postman"
+        },
+        {
+          "icon": "images/skills/linux.png",
+          "title": "Linux"
+        }
+      ]
+    }
+  ]
+}
