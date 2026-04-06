@@ -1,23 +1,74 @@
 {
   "experiences": [
     {
+      "title": "Solution Engineer",
+      "subtitle": "GAMMASTACK",
+      "workType": "Full-time",
+      "workDescription": [
+        "Designed and maintained scalable multi-service Node.js backend architecture for an iGaming platform, supporting payments and user workflows",
+        "Built real-time, event-driven features using Socket.IO and Redis for low-latency communication",
+        "Implemented asynchronous background job processing with BullMQ to improve system efficiency and reliability",
+        "Optimized API performance using caching strategies and non-blocking processing techniques",
+        "Enhanced production stability and uptime within a distributed microservices environment"
+      ],
+      "dateText": "11/2025 – 03/2026"
+    },
+    {
+      "title": "Associate Software Engineer",
+      "subtitle": "Wits Innovation Lab",
+      "workType": "Full-time",
+      "workDescription": [
+        "Designed and implemented scalable MVC architecture to improve code modularity and maintainability",
+        "Developed secure session management using refresh and access token mechanisms for ONDC Buyer App",
+        "Integrated Razorpay payment gateway with refund workflows aligned to ONDC protocols",
+        "Optimized database performance using Prisma and SQL query tuning",
+        "Implemented Redis caching to reduce response times and improve scalability",
+        "Used Google Pub/Sub for efficient large-scale catalog data processing",
+        "Collaborated on API rate-limiting strategies to enhance system security and stability under high traffic"
+      ],
+      "dateText": "01/2024 – 10/2025"
+    },
+    {
+      "title": "Student Software Developer (Tech Lead)",
+      "subtitle": "Training and Placement Cell, GNDEC",
+      "workType": "Full-time",
+      "workDescription": [
+        "Led a team in feature planning, sprint execution, and task delegation",
+        "Developed reusable React components to improve application modularity",
+        "Optimized MySQL queries, reducing data loading time by approximately 20%",
+        "Worked with ReactJS and MySQL to build and maintain internal applications"
+      ],
+      "dateText": "06/2023 – 06/2024"
+    },
+    {
       "title": "Student Software Developer (Team Leader)",
       "subtitle": "Training and Placement Cell",
       "workType": "",
       "workDescription": [
-        "Managed team of juniors students, with weekly feature planning meetings and weekly assigned tasks",
-        "Removed various bugs to increase the loading speed",
-        "Technical Stack - ReactJS and MySQL"
+        "Managed a team of junior developers with weekly sprint planning and task assignments",
+        "Identified and fixed performance bottlenecks to improve application loading speed",
+        "Worked on ReactJS and MySQL-based systems"
       ],
-      "dateText": "05/2023 – present"
+      "dateText": "05/2023 – 05/2024"
+    },
+    {
+      "title": "Technical Team Member (SDE Intern)",
+      "subtitle": "Training and Placement Cell",
+      "workType": "",
+      "workDescription": [
+        "Developed reusable React components to support scalable frontend development",
+        "Provided technical support for events and internal tools",
+        "Worked with ReactJS and MySQL"
+      ],
+      "dateText": "08/2022 – 05/2023"
     },
     {
       "title": "Executive Member",
       "subtitle": "Training and Placement Cell",
       "workType": "",
       "workDescription": [
-        "Coordinating and assisting student queries",
-        "Manage/Coordinate the leads and HRs association for Training and Placement Cell drives"
+        "Coordinated and resolved student queries efficiently",
+        "Managed communication with HRs and company representatives for placement drives"
       ],
       "dateText": "06/2022 – 06/2023"
     },
@@ -26,21 +77,10 @@
       "subtitle": "ITian Club",
       "workType": "",
       "workDescription": [
-        "Content Management",
-        "Manage and Handled various events"
+        "Led content planning and management initiatives",
+        "Organized and managed multiple technical and non-technical events"
       ],
       "dateText": "02/2022 – 02/2023"
-    },
-    {
-      "title": "Technical Team Member (SDE Intern)",
-      "subtitle": "Training and Placement Cell",
-      "workType": "",
-      "workDescription": [
-        "Developed reusable react component.",
-        "Providing technical support to the cell in the relevant events.",
-        "Technical Stack - ReactJS and MySQL"
-      ],
-      "dateText": "08/2022 – 05/2023"
     }
   ]
 }

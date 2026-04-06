@@ -11,20 +11,22 @@ const styles = {
   introTextContainer: {
     margin: 20,
     flexDirection: 'column',
-    whiteSpace: 'pre-wrap',
-    textAlign: 'left',
     fontSize: '1.2em',
     fontWeight: 500,
+    width: '800px'
   },
   introImageContainer: {
-    margin: 20,
+    // margin: 20,
     justifyContent: 'center',
     alignItems: 'center',
     display: 'flex',
+    flexDirection: 'column'
   },
   introImage: {
     border: '5px solid black',
-    // borderRadius: '200px'
+    height: '200px',
+    width: '200px',
+    borderRadius: '200px' 
   }
 };
 
@@ -50,23 +52,19 @@ function About(props) {
   return (
     <>
       <Header title={header} />
-      <div className="section-content-container">
-        <Container>
+      <div>
           {data
             ? (
               <Fade>
-                <Row>
-                  <Col style={styles.introTextContainer}>
-                    {parseIntro(data.about)}
-                  </Col>
                   <Col style={styles.introImageContainer}>
                     <img style={styles.introImage} src={data?.imageSource} alt="profile" />
                   </Col>
-                </Row>
+                  <Col style={styles.introTextContainer}>
+                    {parseIntro(data.about)}
+                  </Col>
               </Fade>
             )
             : <FallbackSpinner />}
-        </Container>
       </div>
     </>
   );

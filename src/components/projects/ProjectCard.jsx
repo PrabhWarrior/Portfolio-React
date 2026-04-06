@@ -89,17 +89,17 @@ const ProjectCard = (props) => {
   );
 };
 
-ProjectCard.propTypes = {
-  project: PropTypes.shape({
-    title: PropTypes.string.isRequired,
-    bodyText: PropTypes.string.isRequired,
-    image: PropTypes.string,
-    links: PropTypes.arrayOf(PropTypes.shape({
-      text: PropTypes.string.isRequired,
-      href: PropTypes.string.isRequired,
-    })),
-    tags: PropTypes.arrayOf(PropTypes.string),
-  }).isRequired,
-};
+  ProjectCard.propTypes = {
+    project: PropTypes.shape({
+      title: PropTypes.string.isRequired,
+      bodyText: PropTypes.string.isRequired,
+      image: PropTypes.string,
+      links: PropTypes.arrayOf(PropTypes.shape({
+        text: PropTypes.string.isRequired,
+        href: PropTypes.string.isRequired,
+      })),
+      tags: PropTypes.arrayOf(PropTypes.string),
+    }).isRequired,
+  };
 
 export default ProjectCard;

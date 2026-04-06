@@ -1,3 +1,75 @@
 {
-  "projects": []
+  "projects":[
+    {
+      "title": "Himira (ONDC E-Commerce Platform)",
+      "bodyText": "Built scalable Node.js microservices integrated with ONDC (Beckn Protocol) for a government-backed e-commerce platform supporting both buyer and seller applications. Designed an event-driven pipeline using Google Pub/Sub and Golang workers, synchronizing data across MongoDB and PostgreSQL with Grafana monitoring for observability.",
+      "image": "images/projects/himira.png",
+      "links": [
+        {
+          "text": "Live",
+          "href": "https://himira.co.in/"
+        }
+      ],
+      "tags": ["Node.js", "Golang", "Google Pub/Sub", "MongoDB", "PostgreSQL", "ONDC", "Grafana", "Microservices"]
+    },
+    {
+      "title": "Plan It (Real-Time Task Management Platform)",
+      "bodyText": "Developed a Jira-like task management platform with real-time collaboration using WebSockets. Implemented JWT-based authentication and role-based access control (RBAC). Optimized MongoDB aggregation queries with Mongoose, reducing average response time by 25%.",
+      "image": "images/projects/planit.png",
+      "links": [
+        {
+          "text": "Live",
+          "href": "https://planit.thewitslab.com/"
+        }
+      ],
+      "tags": ["Node.js", "MongoDB", "WebSockets", "JWT", "RBAC", "Mongoose", "Real-Time Systems"]    },
+      {
+        "title": "JeetaBet (iGaming Platform)",
+        "bodyText": "Engineered backend services for a high-scale iGaming platform offering sportsbook and casino features. Built real-time betting workflows and event-driven systems to handle live odds, user interactions, and payments. Improved system scalability and reliability under high concurrent traffic using caching and asynchronous processing.",
+        "image": "images/projects/jeetabet.png",
+        "links": [
+          {
+            "text": "Live",
+            "href": "https://www.jeetabet.com/"
+          }
+        ],
+        "tags": ["Node.js", "Microservices", "Redis", "Socket.IO", "Event-Driven Architecture", "Payments", "High Concurrency"]
+      },
+      {
+      "title": "Training & Placement Cell Portal",
+      "bodyText": "Developed and optimized a web portal for managing student placements, queries, and company drives. Improved performance by optimizing MySQL queries and building reusable React components for better scalability.",
+      "image": "images/projects/tnpgndec.png",
+      "links": [
+        {
+          "text":"Live",
+          "href":"https://www.tnpgndec.com/"
+        }
+      ],
+      "tags": ["ReactJS", "MySQL", "Frontend", "Performance Optimization"]
+    },
+    {
+      "title": "Guess The Number Game",
+      "bodyText": "Built an interactive number guessing game using vanilla JavaScript with DOM manipulation. Implemented dynamic UI updates using querySelector, real-time user feedback, and game state management with responsive styling using CSS.",
+      "image": "images/projects/guessNumber.png",
+      "links": [
+        {
+          "text": "Live",
+          "href": "https://guess-number-lovat.vercel.app/"
+        }
+      ],
+      "tags": ["JavaScript", "DOM Manipulation", "CSS", "HTML", "querySelector"]
+    },
+    {
+      "title": "Packing List App",
+      "bodyText": "Developed a responsive packing list application using ReactJS to manage travel items efficiently. Implemented dynamic state management, list operations (add/remove/update), and interactive UI components to enhance user experience and organization.",
+      "image": "images/projects/packingList.png",
+      "links": [
+        {
+          "text": "Live",
+          "href": "https://packing-list-ochre.vercel.app/"
+        }
+      ],
+      "tags": ["ReactJS", "JavaScript", "State Management", "UI/UX", "Frontend"]
+    }
+  ]
 }

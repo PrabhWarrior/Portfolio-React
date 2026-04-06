@@ -1,94 +1,164 @@
 {
   "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+
   "skills": [
     {
-      "title": "Languages & Databases",
+      "title": "Languages",
       "items": [
         {
-          "icon": "images/skills/c.png",
-          "title": "C"
-        },
-        {
-          "icon": "images/skills/C-plus-plus.png",
-          "title": "C++"
-        },
-        {
-          "icon": "images/skills/javascript.png",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
           "title": "JavaScript"
         },
         {
-          "icon": "images/skills/python.png",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+          "title": "TypeScript"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
           "title": "Python"
         },
+        {
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg",
+          "title": "Golang"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg",
+          "title": "C++"
+        }
+      ]
+    },
 
+    {
+      "title": "Backend & Architecture",
+      "items": [
         {
-          "icon": "images/skills/mysql.png",
-          "title": "MySQL"
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+          "title": "Node.js"
         },
         {
-          "icon": "images/skills/mongoDb.png",
-          "title": "mongoDB"
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
+          "title": "Express.js"
+        },
+        {
+          "icon": "https://repository-images.githubusercontent.com/234231371/00fd8700-5430-11ea-820b-15fd85b2472c",
+          "title": "Go Fiber"
+        },
+        {
+          "icon": "https://cdn-icons-png.flaticon.com/512/2165/2165004.png",
+          "title": "REST APIs"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg",
+          "title": "Socket.IO"
         }
       ]
     },
+
     {
-      "title": "Frameworks & Technologies",
+      "title": "Databases & ORMs",
       "items": [
         {
-          "icon": "images/skills/html5.png",
-          "title": "HTML"
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
+          "title": "PostgreSQL"
         },
         {
-          "icon": "images/skills/css3.png",
-          "title": "CSS"
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
+          "title": "MongoDB"
         },
         {
-          "icon": "images/skills/tailwindCSS.png",
-          "title": "Tailwind CSS"
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg",
+          "title": "Sequelize"
         },
         {
-          "icon": "images/skills/react.png",
-          "title": "React"
-        },
-        {
-          "icon": "images/skills/expressJs.png",
-          "title": "Expressjs"
-        },
-        {
-          "icon": "images/skills/pandas.png",
-          "title": "Pandas"
-        },
-        {
-          "icon": "images/skills/bootstrap.png",
-          "title": "Bootstrap"
+          "icon": "https://cdn.worldvectorlogo.com/logos/prisma-2.svg",
+          "title": "Prisma"
         }
       ]
     },
+
     {
-      "title": "Tools & Platforms",
+      "title": "Caching & Messaging",
       "items": [
         {
-          "icon": "images/skills/platformIO.png",
-          "title": "Platform IO"
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg",
+          "title": "Redis"
         },
         {
-          "icon": "images/skills/arduino.png",
-          "title": "Arduino"
+          "icon": "https://media.theirstack.com/technology/logo/bullmq/logo.png",
+          "title": "BullMQ"
         },
         {
-          "icon": "images/skills/git.png",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg",
+          "title": "Kafka"
+        },
+        {
+          "icon": "https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg",
+          "title": "Pub/Sub"
+        }
+      ]
+    },
+
+    {
+      "title": "Cloud & DevOps",
+      "items": [
+        {
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg",
+          "title": "AWS"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
+          "title": "Docker"
+        },
+        {
+          "icon": "https://cdn-icons-png.flaticon.com/512/906/906334.png",
+          "title": "CI/CD"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
           "title": "Git"
         },
         {
-          "icon": "images/skills/github.png",
-          "title": "Github"
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
+          "title": "GitHub"
+        }
+      ]
+    },
+
+    {
+      "title": "Frontend",
+      "items": [
+        {
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+          "title": "React"
         },
         {
-          "icon": "images/skills/postman.png",
+          "icon": "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg",
+          "title": "Tailwind CSS"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+          "title": "HTML5"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+          "title": "CSS3"
+        }
+      ]
+    },
+
+    {
+      "title": "Testing & Tools",
+      "items": [
+        {
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg",
+          "title": "Jest"
+        },
+        {
+          "icon": "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg",
           "title": "Postman"
         },
         {
-          "icon": "images/skills/linux.png",
+          "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg",
           "title": "Linux"
         }
       ]
